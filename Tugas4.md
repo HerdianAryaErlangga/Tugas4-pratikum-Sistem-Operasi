@@ -1,3 +1,9 @@
+## Informasi Mahasiswa
+**Nama: Herdian Arya Erlangga**\
+**NIM: 09011182328099**\
+**Kelas: SK3C**
+<br>
+
 #TUGAS PRATIKUM 4
 
 1. Lihat daftar secara lengkap pada direktori aktif, belokkan tampilan standard output ke file 
